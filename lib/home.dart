@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:google_maps_flutter/google_maps_flutter.dart';
-import 'package:task/custom_tile.dart';
-import 'package:task/data_model.dart';
-import 'package:task/my_map.dart';
+import 'custom_tile.dart';
+import 'data_model.dart';
+import 'my_map.dart';
 
 class Home extends StatefulWidget {
   @override
